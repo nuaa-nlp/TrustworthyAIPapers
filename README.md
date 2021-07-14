@@ -2,11 +2,11 @@
 List of Papers on Attack and Defense (AD) in AI Models
 
 
-### Compuper Vision
+### Natural Language Processing
 - Attack
 - Defense
 
-### Natural Language Processing
+### Compuper Vision
 - Attack
 - Defense
 
