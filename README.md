@@ -1,9 +1,8 @@
-# AADPapers
-List of Papers on Adversarial Attack and Defense (AAD) in AI Models
+# ADPapers
+List of Papers on Attack and Defense (AD) in AI Models
 
 
 ### Compuper Vision
-
 - Attack
 - Defense
 
