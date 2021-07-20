@@ -15,6 +15,7 @@ Keywords:
 5. **A Sweet Rabbit Hole by DARCY: Using Honeypots to Detect Universal Trigger’s Adversarial Attacks**. *Thai Le, Noseong Park and Dongwon Lee*. ACL 2021. [[PDF](https://arxiv.org/abs/2011.10492)]
 6. **Turn the Combination Lock: Learnable Textual Backdoor Attacks via Word Substitution**. *Fanchao Qi, Yuan Yao, Sophia Xu, Zhiyuan Liu and Maosong Sun*. ACL 2021. [[PDF](https://arxiv.org/abs/2106.06361)]
 7. **Rethinking Stealthiness of Backdoor Attack against NLP Models**. *Wenkai Yang, Yankai Lin, Peng Li, Jie Zhou and Xu Sun*. ACL 2021. [[PDF]()] 
+8. **Are VQA Systems RAD? Measuring Robustness to Augmented Data with Focused Interventions**. *Daniel Rosenberg, Itai Gat, Amir Feder and Roi Reichart*. ACL 2021. [[PDF](https://arxiv.org/abs/2106.04484)] [[CODE](https://danrosenberg.github.io/rad-measure/)]
 
 ### Compuper Vision
 
