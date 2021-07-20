@@ -1,6 +1,11 @@
 # ADPapers
 List of Papers on Attack and Defense (AD) in AI Models
 
+Keywords: 
+- Adversarial Attack
+- Robustness
+- Interpretability
+
 
 ### Natural Language Processing
 1. **Defense against Adversarial Attacks in NLP via Dirichlet Neighborhood Ensemble**. *Yi Zhou, Xiaoqing Zheng, Cho-Jui Hsieh, Kai-wei Chang, Xuanjing Huang*. ACL 2021. [[PDF](https://arxiv.org/abs/2006.11627)]
