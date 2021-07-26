@@ -16,6 +16,7 @@ Keywords:
 6. **Turn the Combination Lock: Learnable Textual Backdoor Attacks via Word Substitution**. *Fanchao Qi, Yuan Yao, Sophia Xu, Zhiyuan Liu and Maosong Sun*. ACL 2021. [[PDF](https://arxiv.org/abs/2106.06361)]
 7. **Rethinking Stealthiness of Backdoor Attack against NLP Models**. *Wenkai Yang, Yankai Lin, Peng Li, Jie Zhou and Xu Sun*. ACL 2021. [[PDF]()] 
 8. **Are VQA Systems RAD? Measuring Robustness to Augmented Data with Focused Interventions**. *Daniel Rosenberg, Itai Gat, Amir Feder and Roi Reichart*. ACL 2021. [[PDF](https://arxiv.org/abs/2106.04484)] [[CODE](https://danrosenberg.github.io/rad-measure/)]
+9. **CLINE: Contrastive Learning with Semantic Negative Examples for Natural Language Understanding**. *Dong Wang, Ning Ding, Piji Li, Hai-Tao Zheng*. ACL 2021. [[PDF](https://arxiv.org/abs/2107.00440)]
 
 ### Compuper Vision
 
