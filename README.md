@@ -17,6 +17,7 @@ Keywords:
 7. **Rethinking Stealthiness of Backdoor Attack against NLP Models**. *Wenkai Yang, Yankai Lin, Peng Li, Jie Zhou and Xu Sun*. ACL 2021. [[PDF]()] 
 8. **Are VQA Systems RAD? Measuring Robustness to Augmented Data with Focused Interventions**. *Daniel Rosenberg, Itai Gat, Amir Feder and Roi Reichart*. ACL 2021. [[PDF](https://arxiv.org/abs/2106.04484)] [[CODE](https://danrosenberg.github.io/rad-measure/)]
 9. **CLINE: Contrastive Learning with Semantic Negative Examples for Natural Language Understanding**. *Dong Wang, Ning Ding, Piji Li, Hai-Tao Zheng*. ACL 2021. [[PDF](https://arxiv.org/abs/2107.00440)]
+10. **Generating Fluent Adversarial Examples for Natural Languages**. *Huangzhao Zhang, Hao Zhou, Ning Miao, Lei Li*. ACL 2019. [[PDF](https://arxiv.org/abs/2007.06174)] 
 
 ### Compuper Vision
 
