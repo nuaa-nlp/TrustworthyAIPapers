@@ -30,7 +30,7 @@ Keywords:
 20. **On the Robustness of Language Encoders against Grammatical Errors**. *Fan Yin, Quanyu Long, Tao Meng, Kai-Wei Chang*. ACL 2020. [[PDF](https://arxiv.org/abs/2005.05683)]
 21. **Structure-Invariant Testing for Machine Translation**. *Pinjia He, Clara Meister, Zhendong Su*. ICSE 2020. [[PDF](https://ieeexplore.ieee.org/abstract/document/9284002)]
 22. **Attackability Characterization of Adversarial Evasion Attack on Discrete Data**. *Wang Yutong, Han Yufei, Bao Hongyan, Shen Yun, Ma Fenglong, Li Jin, Zhang  Xiangliang*. SIGKDD 2020. [[PDF](https://dl.acm.org/doi/abs/10.1145/3394486.3403194)]
-23. **Word-level Textual Adversarial Attacking as Combinatorial Optimization**. *Yuan Zang, Fanchao Qi, Chenghao Yang, Zhiyuan Liu, Meng Zhang, Qun Liu, Maosong Sun*. ACL 2020. [[PDF](https://dl.acm.org/doi/abs/10.1145/3394486.3403194)]
+23. **Word-level Textual Adversarial Attacking as Combinatorial Optimization**. *Yuan Zang, Fanchao Qi, Chenghao Yang, Zhiyuan Liu, Meng Zhang, Qun Liu, Maosong Sun*. ACL 2020. [[PDF](https://arxiv.org/abs/1910.12196)]
 
 ### Compuper Vision
 
