@@ -18,7 +18,8 @@ Keywords:
 8. **Are VQA Systems RAD? Measuring Robustness to Augmented Data with Focused Interventions**. *Daniel Rosenberg, Itai Gat, Amir Feder and Roi Reichart*. ACL 2021. [[PDF](https://arxiv.org/abs/2106.04484)] [[CODE](https://danrosenberg.github.io/rad-measure/)]
 9. **CLINE: Contrastive Learning with Semantic Negative Examples for Natural Language Understanding**. *Dong Wang, Ning Ding, Piji Li, Hai-Tao Zheng*. ACL 2021. [[PDF](https://arxiv.org/abs/2107.00440)]
 10. **Generating Fluent Adversarial Examples for Natural Languages**. *Huangzhao Zhang, Hao Zhou, Ning Miao, Lei Li*. ACL 2019. [[PDF](https://arxiv.org/abs/2007.06174)] 
-11. 
+11. **A Targeted Attack on Black-Box Neural Machine Translation with Parallel Data Poisoning**. *Chang Xu, Jun Wang, Yuqing Tang, Francisco Guzmán, Benjamin I. P. Rubinstein*. Proceedings of the Web Conference 2021. [[PDF](https://dl.acm.org/doi/abs/10.1145/3442381.3450034)] 
+12. 
 
 ### Compuper Vision
 
