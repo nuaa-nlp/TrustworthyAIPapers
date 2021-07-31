@@ -31,6 +31,13 @@ Keywords:
 21. **Structure-Invariant Testing for Machine Translation**. *Pinjia He, Clara Meister, Zhendong Su*. ICSE 2020. [[PDF](https://ieeexplore.ieee.org/abstract/document/9284002)]
 22. **Attackability Characterization of Adversarial Evasion Attack on Discrete Data**. *Wang Yutong, Han Yufei, Bao Hongyan, Shen Yun, Ma Fenglong, Li Jin, Zhang  Xiangliang*. SIGKDD 2020. [[PDF](https://dl.acm.org/doi/abs/10.1145/3394486.3403194)]
 23. **Word-level Textual Adversarial Attacking as Combinatorial Optimization**. *Yuan Zang, Fanchao Qi, Chenghao Yang, Zhiyuan Liu, Meng Zhang, Qun Liu, Maosong Sun*. ACL 2020. [[PDF](https://arxiv.org/abs/1910.12196)]
+24. **Bayesian Attention Belief Networks**. *Shujian Zhang, Xinjie Fan, Bo Chen, Mingyuan Zhou*. ICML 2021. [[PDF](https://arxiv.org/abs/2106.05251)][theory]
+25. **Generating Fluent Adversarial Examples for Natural Languages**. *Huangzhao Zhang, Hao Zhou, Ning Miao, Lei Li*. ACL 2019. [[PDF](https://arxiv.org/abs/2007.06174)]
+26. **Generating Fluent Adversarial Examples for Natural Languages**. *Huangzhao Zhang, Hao Zhou, Ning Miao, Lei Li*. ACL 2019. [[PDF](https://arxiv.org/abs/2007.06174)]
+27. **Generating Fluent Adversarial Examples for Natural Languages**. *Huangzhao Zhang, Hao Zhou, Ning Miao, Lei Li*. ACL 2019. [[PDF](https://arxiv.org/abs/2007.06174)]
+28. **Generating Fluent Adversarial Examples for Natural Languages**. *Huangzhao Zhang, Hao Zhou, Ning Miao, Lei Li*. ACL 2019. [[PDF](https://arxiv.org/abs/2007.06174)]
+29. **Generating Fluent Adversarial Examples for Natural Languages**. *Huangzhao Zhang, Hao Zhou, Ning Miao, Lei Li*. ACL 2019. [[PDF](https://arxiv.org/abs/2007.06174)]
+30. **Generating Fluent Adversarial Examples for Natural Languages**. *Huangzhao Zhang, Hao Zhou, Ning Miao, Lei Li*. ACL 2019. [[PDF](https://arxiv.org/abs/2007.06174)]
 
 ### Compuper Vision
 
