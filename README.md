@@ -18,9 +18,50 @@ Keywords:
 8. **Are VQA Systems RAD? Measuring Robustness to Augmented Data with Focused Interventions**. *Daniel Rosenberg, Itai Gat, Amir Feder and Roi Reichart*. ACL 2021. [[PDF](https://arxiv.org/abs/2106.04484)] [[CODE](https://danrosenberg.github.io/rad-measure/)]
 9. **CLINE: Contrastive Learning with Semantic Negative Examples for Natural Language Understanding**. *Dong Wang, Ning Ding, Piji Li, Hai-Tao Zheng*. ACL 2021. [[PDF](https://arxiv.org/abs/2107.00440)]
 10. **Generating Fluent Adversarial Examples for Natural Languages**. *Huangzhao Zhang, Hao Zhou, Ning Miao, Lei Li*. ACL 2019. [[PDF](https://arxiv.org/abs/2007.06174)] 
+11. **A Targeted Attack on Black-Box Neural Machine Translation with Parallel Data Poisoning**. *Chang Xu, Jun Wang, Yuqing Tang, Francisco Guzmán, Benjamin I. P. Rubinstein*. The Web Conference 2021. [[PDF](https://dl.acm.org/doi/abs/10.1145/3442381.3450034)] 
+12. **Generating Natural Language Attacks in a Hard Label Black Box Setting**. *Rishabh Maheshwary, Saket Maheshwary, Vikram Pudi*. AAAI 2021. [[PDF](https://www.aaai.org/AAAI21Papers/AAAI-5543.MaheshwaryR.pdf)] 
+13. **Beyond Accuracy: Behavioral Testing of NLP Models with CheckList**. *Marco Tulio Ribeiro, Tongshuang Wu, Carlos Guestrin, Sameer Singh*. ACL 2020. [[PDF](https://arxiv.org/abs/2005.04118)] 
+14. **Bigram and Unigram Based Text Attack via Adaptive Monotonic Heuristic Search**. *Xinghao Yang, Weifeng Liu, James Bailey, Dacheng Tao, Wei Liu*. AAAI 2021. [[PDF](https://www.aaai.org/AAAI21Papers/AAAI-4570.YangX.pdf)] 
+15. **Argot: Generating Adversarial Readable Chinese Texts**. *Zihan Zhang, Mingxuan Liu, Chao Zhang, Yiming Zhang, Zhou Li, Qi Li, Haixin Duan, Donghong Sun*. IJCAI 2020. [[PDF](https://netsec.ccert.edu.cn/files/papers/ijcai20-argot.pdf)] 
+16. **Generating Natural Language Adversarial Examples through Probability Weighted Word Saliency**. *Shuhuai Ren, Yihe Deng, Kun He, Wanxiang Che*. ACL 2019. [[PDF](https://aclanthology.org/P19-1103.pdf)] 
+17. **Greedy Attack and Gumbel Attack:Generating Adversarial Examples for Discrete Data**. *Puyudi Yang, Jianbo Chen, Cho-Jui Hsieh, Jane-Ling Wang, Michael I. Jordan*. J MACH LEARN RES 2020. [[PDF](https://www.jmlr.org/papers/volume21/19-569/19-569.pdf)] 
+18. **Humpty Dumpty: Humpty Dumpty:Controlling Word Meanings via Corpus Poisoning**. *Roei Schuster, Tal Schuster, Yoav Meri, Vitaly Shmatikov*. SP 2020. [[PDF](https://ieeexplore.ieee.org/abstract/document/9152608)] 
+19. **Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment**. *Di Jin, Zhijing Jin, Joey Tianyi Zhou, Peter Szolovits*. AAAI 2020. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/6311)] 
+20. **On the Robustness of Language Encoders against Grammatical Errors**. *Fan Yin, Quanyu Long, Tao Meng, Kai-Wei Chang*. ACL 2020. [[PDF](https://arxiv.org/abs/2005.05683)]
+21. **Structure-Invariant Testing for Machine Translation**. *Pinjia He, Clara Meister, Zhendong Su*. ICSE 2020. [[PDF](https://ieeexplore.ieee.org/abstract/document/9284002)]
+22. **Attackability Characterization of Adversarial Evasion Attack on Discrete Data**. *Wang Yutong, Han Yufei, Bao Hongyan, Shen Yun, Ma Fenglong, Li Jin, Zhang  Xiangliang*. SIGKDD 2020. [[PDF](https://dl.acm.org/doi/abs/10.1145/3394486.3403194)]
+23. **Word-level Textual Adversarial Attacking as Combinatorial Optimization**. *Yuan Zang, Fanchao Qi, Chenghao Yang, Zhiyuan Liu, Meng Zhang, Qun Liu, Maosong Sun*. ACL 2020. [[PDF](https://arxiv.org/abs/1910.12196)]---------------------------------
+24. **Bayesian Attention Belief Networks**. *Shujian Zhang, Xinjie Fan, Bo Chen, Mingyuan Zhou*. ICML 2021. [[PDF](https://arxiv.org/abs/2106.05251)][theory]
+25. **Fast and Precise Certification of Transformers**. *Gregory Bonaert, Dimitar I. Dimitrov, Maximilian Baader, Martin Vechev*. PLDI 2021. [[PDF](https://dl.acm.org/doi/abs/10.1145/3453483.3454056)][theory]
+26. **A Robust Adversarial Training Approach to Machine Reading Comprehension**. *Kai Liu, Xin Liu, An Yang, Jing Liu, Jinsong Su, Sujian Li, Qiaoqiao She*. PLDI 2021. [[PDF](https://dl.acm.org/doi/abs/10.1145/3453483.3454056)]
+27. **SAFER: A Structure-free Approach for Certified Robustness to Adversarial Word Substitutions**. *Mao Ye, Chengyue Gong, Qiang Liu*. ACL 2020. [[PDF](https://arxiv.org/abs/2005.14424)]
+28. **Combating Adversarial Misspellings with Robust Word Recognition**. *Danish Pruthi, Bhuwan Dhingra, Zachary C. Lipton*. ACL 2019. [[PDF](https://arxiv.org/abs/1905.11268)]
+29. **Joint Character-Level Word Embedding and Adversarial Stability Training to Defend Adversarial Text**. *Hui Liu,  Yongzheng Zhang, Yipeng Wang, Zheng Lin, Yige Chen*. AAAI 2020. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/6356)]
+30. **Leveraging Adversarial Training in Self-Learning for Cross-Lingual Text Classification**. *Xin Dong, Yaxin Zhu, Yupeng Zhang, Zuohui Fu, Dongkuan Xu, Sen Yang, Gerard de Melo*. SIGIR 2020. [[PDF](https://dl.acm.org/doi/abs/10.1145/3397271.3401209)]
+31. **NAT: Noise-Aware Training for Robust Neural Sequence Labeling**. *Marcin Namysl, Sven Behnke, Joachim Köhler*. ACL 2020. [[PDF](https://arxiv.org/abs/2005.07162)]
+32. **Pretrained Transformers Improve Out-of-Distribution Robustness**. *Dan Hendrycks, Xiaoyuan Liu, Eric Wallace, Adam Dziedzic, Rishabh Krishnan, Dawn Song*. ACL 2020. [[PDF](https://arxiv.org/abs/2004.06100)]
+33. **Robust Encodings: A Framework for Combating Adversarial Typos**. *Erik Jones, Robin Jia, Aditi Raghunathan, Percy Liang*. ACL 2020. [[PDF](https://arxiv.org/abs/2005.01229)]
+34. **Robust Neural Machine Translation with Doubly Adversarial Inputs**. *Yong Cheng, Lu Jiang, Wolfgang Macherey*. ACL 2019. [[PDF](https://arxiv.org/abs/1906.02443)]
+35. **TEXTSHIELD: Robust Text Classification Based on Multimodal Embedding and Neural Machine Translation**. *Jinfeng Li, Tianyu Du, Shouling Ji, Rong Zhang, Quan Lu, Min Yang, Ting Wang*. USENIX 2020. [[PDF](https://www.usenix.org/conference/usenixsecurity20/presentation/li-jinfeng)]
+36. **Syntactic Data Augmentation Increases Robustness to Inference Heuristics**. *Junghyun Min, R. Thomas McCoy, Dipanjan Das, Emily Pitler, Tal Linzen*. ACL 2020. [[PDF](https://arxiv.org/abs/2004.11999)]-----------------------------------
+37. **Generating Adversarial Examples for Holding Robustness of Source Code Processing Models**. *Huangzhao Zhang, Zhuo Li, Ge Li, Lei Ma, Yang Liu, Zhi Jin*. AAAI 2020. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/5469)]
+38. **Attention Please: Your Attention Check Questions in Survey Studies Can Be Automatically Answered**. *Weiping Pei
+, Arthur Mayer, Kaylynn Tu, Chuan Yue*. The Web Conference 2020. [[PDF](https://dl.acm.org/doi/abs/10.1145/3366423.3380195)]
+39. **BERT & Family Eat Word Salad: Experiments with Text Understanding**. *Ashim Gupta, Giorgi Kvernadze, Vivek Srikumar*. AAAI 2021. [[PDF](https://www.aaai.org/AAAI21Papers/AAAI-10273.GuptaA.pdf)]
+40. **Evaluating and Enhancing the Robustness of Neural Network-based Dependency Parsing Models with Adversarial Examples**. *Xiaoqing Zheng, Jiehang Zeng, Yi Zhou, Cho-Jui Hsieh, Minhao Cheng, Xuanjing Huang*. ACL 2020. [[PDF](https://aclanthology.org/2020.acl-main.590)]
+41. **Imitation Attacks and Defenses for Black-box Machine Translation Systems**. *Eric Wallace, Mitchell Stern, Dawn Song*. EMNLP 2020. [[PDF](https://arxiv.org/abs/2004.15015)]
+42. **Improving the Robustness of Question Answering Systems to Question Paraphrasing**. *Wee Chung Gan
+, Hwee Tou Ng*. ACL 2019. [[PDF](https://aclanthology.org/P19-1610.pdf)]
 
 ### Compuper Vision
-
+1. **Adversarial Preprocessing: Understanding and Preventing Image-Scaling Attacks in Machine Learning**. *Erwin Quiring, David Klein, Daniel Arp, Martin Johns, Konrad Rieck, TU Braunschweig*. USENIX 2020. [[PDF](https://www.usenix.org/conference/usenixsecurity20/presentation/quiring)]
+2. **Amora: Black-box Adversarial Morphing Attack**. *Run Wang, Felix Juefei-Xu, Qing Guo, Yihao Huang, Xiaofei Xie, Lei Ma, Yang Liu*. ACMMM 2020. [[PDF](https://dl.acm.org/doi/abs/10.1145/3394171.3413544)]
+3. **Learning Ordered Top-k Adversarial Attacks via Adversarial Distillation**. *Zekun Zhang, Tianfu Wu*. CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPRW_2020/html/w47/Zhang_Learning_Ordered_Top-k_Adversarial_Attacks_via_Adversarial_Distillation_CVPRW_2020_paper.html)]
+4. **Towards Feature Space Adversarial Attack by Style Perturbation**. *Qiuling Xu, Guanhong Tao, Siyuan Cheng, Xiangyu Zhang*. AAAI 2021. [[PDF](https://www.aaai.org/AAAI21Papers/AAAI-10011.XuQ.pdf)]
+5. **Knowing When to Stop: Evaluation and Verification of Conformity to Output-size Specifications**. *Chenglong Wang, Rudy Bunel, Krishnamurthy Dvijotham, Po-Sen Huang, Edward Grefenstette, Pushmeet Kohli*. CVPR 2019. [[PDF](https://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Knowing_When_to_Stop_Evaluation_and_Verification_of_Conformity_to_CVPR_2019_paper.html)]--------------------------------------------------
+6. **Defense Against Adversarial Images using Web-Scale Nearest-Neighbor Search**. *Abhimanyu Dubey, Laurens van der Maaten, Zeki Yalniz, Yixuan Li, Dhruv Mahajan*. CVPR 2019. [[PDF](https://openaccess.thecvf.com/content_CVPR_2019/html/Dubey_Defense_Against_Adversarial_Images_Using_Web-Scale_Nearest-Neighbor_Search_CVPR_2019_paper.html)]-----------------------------------------------------
+7. **Evading Deepfake-Image Detectors with White- and Black-Box Attacks**. *Nicholas Carlini, Hany Farid*. CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPRW_2020/html/w39/Carlini_Evading_Deepfake-Image_Detectors_With_White-_and_Black-Box_Attacks_CVPRW_2020_paper.html)]
 
 ### Speech
-
+1. **SirenAtack: Generating Adversarial Audio for End-to-End Acoustic Systems**. *Tianyu Du, Shouling Ji, Jinfeng Li, Qinchen Gu, Ting Wang, Raheem Beyah*. ASIA CCS 2020. [[PDF](https://dl.acm.org/doi/abs/10.1145/3320269.3384733)]
+2. **Adversarial Music: Real World Audio Adversary Against Wake-word Detection System**. *Juncheng B. Li, Shuhui Qu, Xinjian Li, Joseph Szurley, J. Zico Kolter, Florian Metze*. NeurIPS 2019. [[PDF](https://arxiv.org/abs/1911.00126)]
