@@ -44,7 +44,7 @@ Keywords:
 34. **Robust Encodings: A Framework for Combating Adversarial Typos**. *Erik Jones, Robin Jia, Aditi Raghunathan, Percy Liang*. ACL 2020. [[PDF](https://arxiv.org/abs/2005.01229)]
 35. **Robust Neural Machine Translation with Doubly Adversarial Inputs**. *Yong Cheng, Lu Jiang, Wolfgang Macherey*. ACL 2019. [[PDF](https://arxiv.org/abs/1906.02443)]
 36. **TEXTSHIELD: Robust Text Classification Based on Multimodal Embedding and Neural Machine Translation**. *Jinfeng Li, Tianyu Du, Shouling Ji, Rong Zhang, Quan Lu, Min Yang, Ting Wang*. USENIX 2020. [[PDF](https://www.usenix.org/conference/usenixsecurity20/presentation/li-jinfeng)]
-37. **Syntactic Data Augmentation Increases Robustness to Inference Heuristics**. *Junghyun Min, R. Thomas McCoy, Dipanjan Das, Emily Pitler, Tal Linzen*. ACL 2020. [[PDF](https://arxiv.org/abs/2004.11999)]-----------------------------------
+37. **Syntactic Data Augmentation Increases Robustness to Inference Heuristics**. *Junghyun Min, R. Thomas McCoy, Dipanjan Das, Emily Pitler, Tal Linzen*. ACL 2020. [[PDF](https://arxiv.org/abs/2004.11999)]
 38. **Generating Adversarial Examples for Holding Robustness of Source Code Processing Models**. *Huangzhao Zhang, Zhuo Li, Ge Li, Lei Ma, Yang Liu, Zhi Jin*. AAAI 2020. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/5469)]
 39. **Attention Please: Your Attention Check Questions in Survey Studies Can Be Automatically Answered**. *Weiping Pei
 , Arthur Mayer, Kaylynn Tu, Chuan Yue*. The Web Conference 2020. [[PDF](https://dl.acm.org/doi/abs/10.1145/3366423.3380195)]
