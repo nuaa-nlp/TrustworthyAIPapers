@@ -69,11 +69,16 @@ Keywords:
 10. **NIC: Detecting Adversarial Samples with Neural Network Invariant Checking**. *Shiqing Ma, Yingqi Liu, Guanhong Tao, Wen-Chuan Lee, Xiangyu Zhang*. NDSS 2019. [[PDF](https://www.ndss-symposium.org/ndss-paper/nic-detecting-adversarial-samples-with-neural-network-invariant-checking/)]
 11. **Gotta Catch'Em All: Using Honeypots to Catch Adversarial Attacks on Neural Networks**. *Shawn Shan, Emily Wenger, Bolun Wang, Bo Li, Haitao Zheng, Ben Y. Zhao*. CCS 2020. [[PDF](https://dl.acm.org/doi/10.1145/3372297.3417231)]
 12. **Hybrid Batch Attacks: Finding Black-box Adversarial Examples with Limited Queries**. *Fnu Suya, Jianfeng Chi, David Evans, Yuan Tian*. USENIX 2020. [[PDF](https://www.usenix.org/conference/usenixsecurity20/presentation/suya)]
+13. **Stealthy Adversarial Perturbations Against  Real-Time Video Classification Systems**. *Shasha Li, Ajaya Neupane, Sujoy Paul, Chengyu Song, Srikanth V. Krishnamurthy, Amit K. Roy Chowdhury and Ananthram Swami*. NDSS 2019. [[PDF](https://www.ndss-symposium.org/ndss-paper/stealthy-adversarial-perturbations-against-real-time-video-classification-systems/)]
+14. **Reinforcement Learning Based Sparse Black-box Adversarial Attack on Video Recognition Models**. *Zeyuan Wang, Chaofeng Sha, Su Yang*. IJCAI 2021. [[PDF](https://www.ijcai.org/proceedings/2021/435)]
 
 ### Speech
 1. **SirenAtack: Generating Adversarial Audio for End-to-End Acoustic Systems**. *Tianyu Du, Shouling Ji, Jinfeng Li, Qinchen Gu, Ting Wang, Raheem Beyah*. ASIA CCS 2020. [[PDF](https://dl.acm.org/doi/abs/10.1145/3320269.3384733)]
 2. **Adversarial Music: Real World Audio Adversary Against Wake-word Detection System**. *Juncheng B. Li, Shuhui Qu, Xinjian Li, Joseph Szurley, J. Zico Kolter, Florian Metze*. NeurIPS 2019. [[PDF](https://arxiv.org/abs/1911.00126)]
 
-### Video
-1. **Stealthy Adversarial Perturbations Against  Real-Time Video Classification Systems**. *Shasha Li, Ajaya Neupane, Sujoy Paul, Chengyu Song, Srikanth V. Krishnamurthy, Amit K. Roy Chowdhury and Ananthram Swami*. NDSS 2019. [[PDF](https://www.ndss-symposium.org/ndss-paper/stealthy-adversarial-perturbations-against-real-time-video-classification-systems/)]
-2. **Reinforcement Learning Based Sparse Black-box Adversarial Attack on Video Recognition Models**. *Zeyuan Wang, Chaofeng Sha, Su Yang*. IJCAI 2021. [[PDF](https://www.ijcai.org/proceedings/2021/435)]
+
+
+### Team
+1. **Secure Computing Lab of Big Data** http://scl.sribd.cn/index.html
+2. http://xingjunma.com/
+3. https://personal.ntu.edu.sg/yangliu/
