@@ -80,7 +80,7 @@ Keywords:
 
 
 ### Team
-1. **Secure Computing Lab of Big Data** http://scl.sribd.cn/index.html
-2. http://xingjunma.com/
+1. Baoyuan Wu: **Secure Computing Lab of Big Data** http://scl.sribd.cn/index.html
+2. Xingjun Ma: http://xingjunma.com/
 3. Yang Liu: https://personal.ntu.edu.sg/yangliu/
 4. Cihang Xie: https://cihangxie.github.io/
