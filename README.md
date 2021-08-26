@@ -74,6 +74,7 @@ Keywords:
 12. **Hybrid Batch Attacks: Finding Black-box Adversarial Examples with Limited Queries**. *Fnu Suya, Jianfeng Chi, David Evans, Yuan Tian*. USENIX 2020. [[PDF](https://www.usenix.org/conference/usenixsecurity20/presentation/suya)]
 13. **Stealthy Adversarial Perturbations Against  Real-Time Video Classification Systems**. *Shasha Li, Ajaya Neupane, Sujoy Paul, Chengyu Song, Srikanth V. Krishnamurthy, Amit K. Roy Chowdhury and Ananthram Swami*. NDSS 2019. [[PDF](https://www.ndss-symposium.org/ndss-paper/stealthy-adversarial-perturbations-against-real-time-video-classification-systems/)]
 14. **Reinforcement Learning Based Sparse Black-box Adversarial Attack on Video Recognition Models**. *Zeyuan Wang, Chaofeng Sha, Su Yang*. IJCAI 2021. [[PDF](https://www.ijcai.org/proceedings/2021/435)]
+15. **TkML-AP: Adversarial Attacks to Top-k Multi-Label Learning**. *Shu Hu, Lipeng Ke, Xin Wang, Siwei Lyu*. ICCV 2021. [[PDF](https://arxiv.org/abs/2108.00146)]
 
 ### Speech
 1. **SirenAtack: Generating Adversarial Audio for End-to-End Acoustic Systems**. *Tianyu Du, Shouling Ji, Jinfeng Li, Qinchen Gu, Ting Wang, Raheem Beyah*. ASIA CCS 2020. [[PDF](https://dl.acm.org/doi/abs/10.1145/3320269.3384733)]
