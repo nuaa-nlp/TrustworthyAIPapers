@@ -7,6 +7,8 @@ Keywords:
 - Interpretability
 - Privacy
 
+## Papers
+
 ### Natural Language Processing
 1. **Semantic-Preserving Adversarial Text Attacks**. *Xinghao Yang, Weifeng Liu, James Bailey, Tianqing Zhu, Dacheng Tao, Wei Liu*. [[PDF](https://arxiv.org/abs/2108.10015)]
 2. **Defense against Adversarial Attacks in NLP via Dirichlet Neighborhood Ensemble**. *Yi Zhou, Xiaoqing Zheng, Cho-Jui Hsieh, Kai-wei Chang, Xuanjing Huang*. ACL 2021. [[PDF](https://arxiv.org/abs/2006.11627)]
@@ -78,8 +80,15 @@ Keywords:
 2. **Adversarial Music: Real World Audio Adversary Against Wake-word Detection System**. *Juncheng B. Li, Shuhui Qu, Xinjian Li, Joseph Szurley, J. Zico Kolter, Florian Metze*. NeurIPS 2019. [[PDF](https://arxiv.org/abs/1911.00126)]
 
 
+## Related Workshops
+1. [ICCV 2021 2nd Workshop on Adversarial Robustness In the Real World](https://iccv21-adv-workshop.github.io/)
+2. [Uncertainty & Robustness in Deep Learning (Workshop at ICML 2021)](https://sites.google.com/view/udlworkshop2021/home)
+3. [Security and Safety in Machine Learning Systems (Workshop at ICLR 2021)](https://aisecure-workshop.github.io/aml-iclr2021/)
+4. [Generalization beyond the Training Distribution in Brains and Machines (Workshop at ICLR 2021)](https://iclr2021generalization.github.io/)
+5. [1st International Workshop on Adversarial Learning for Multimedia (Workshop at ACM Multimedia 2021)](https://advm-workshop-2021.github.io/)
+6. [Workshop on Adversarial Machine Learning in Real-World Computer Vision Systems and Online Challenges (Workshop at CVPR 2021)](https://aisecure-workshop.github.io/amlcvpr2021/)
 
-### Team
+## Team
 1. Baoyuan Wu: **Secure Computing Lab of Big Data** http://scl.sribd.cn/index.html
 2. Xingjun Ma: http://xingjunma.com/
 3. Yang Liu: https://personal.ntu.edu.sg/yangliu/
