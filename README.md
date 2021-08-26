@@ -2,7 +2,7 @@
 List of Papers on Attack and Defense (AD) in AI Models
 
 Keywords: 
-- Adversarial Attack
+- Adversarial Attack and Defense
 - Robustness
 - Interpretability
 - Privacy
