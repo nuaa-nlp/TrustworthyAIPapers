@@ -1,5 +1,5 @@
 # ADPapers
-List of Papers on Attack and Defense (AD) in AI Models
+List of Papers on AI + Security
 
 Keywords: 
 - Adversarial Attack and Defense
