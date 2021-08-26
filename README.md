@@ -95,3 +95,4 @@ Keywords:
 3. Yang Liu: https://personal.ntu.edu.sg/yangliu/
 4. Cihang Xie: https://cihangxie.github.io/
 5. Siwei Lyu: https://cse.buffalo.edu/~siweilyu/
+6. Yisen Wang: https://yisenwang.github.io/
