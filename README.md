@@ -98,3 +98,4 @@ Keywords:
 5. Siwei Lyu: https://cse.buffalo.edu/~siweilyu/
 6. Yisen Wang: https://yisenwang.github.io/
 7. Sijia Liu: https://lsjxjtu.github.io/
+8. Xianglong Liu: https://scholar.google.com/citations?user=8VY7ZDcAAAAJ&hl=en
