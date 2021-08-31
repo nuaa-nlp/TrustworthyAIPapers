@@ -59,6 +59,11 @@ Keywords:
 , Hwee Tou Ng*. ACL 2019. [[PDF](https://aclanthology.org/P19-1610.pdf)]
 44. **Crafting Adversarial Examples for Neural Machine Translation**. *Xinze Zhang, Junzhe Zhang, Zhenhua Chen, Kun He*. ACL 2021. [[PDF](https://aclanthology.org/2021.acl-long.153/)]
 45. **Adversarial Training with Fast Gradient Projection Method against Synonym Substitution Based Text Attacks**. *Xiaosen Wang, Yichen Yang, Yihe Deng, Kun He*. AAAI 2021. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/17648)]
+46. **Selective Differential Privacy for Language Modeling**. *Weiyan Shi, Aiqi Cui, Evan Li, Ruoxi Jia, Zhou Yu*. [[PDF](https://arxiv.org/abs/2108.12944)]
+47. **Searching for an Effective Defender: Benchmarking Defense against Adversarial Word Substitution**. *Zongyi Li, Jianhan Xu, Jiehang Zeng, Linyang Li, Xiaoqing Zheng, Qi Zhang, Kai-Wei Chang, Cho-Jui Hsieh*. [[PDF](https://arxiv.org/abs/2108.12777)]
+48. **DropAttack: A Masked Weight Adversarial Training Method to Improve Generalization of Neural Networks**. *Shiwen Ni, Jiawen Li, Hung-Yu Kao*. [[PDF](https://arxiv.org/abs/2108.12805)]
+49. **CAPE: Context-Aware Private Embeddings for Private Language Learning**. *https://arxiv.org/abs/2108.12318*. EMNLP 2021. [[PDF](https://arxiv.org/abs/2108.12318)]
+50. **Evaluating the Robustness of Neural Language Models to Input Perturbations**. *Richard Plant, Dimitra Gkatzia, Valerio Giuffrida*. EMNLP 2021. [[PDF](https://arxiv.org/abs/2108.12237)]
 
 ### Compuper Vision
 1. **Adversarial Preprocessing: Understanding and Preventing Image-Scaling Attacks in Machine Learning**. *Erwin Quiring, David Klein, Daniel Arp, Martin Johns, Konrad Rieck, TU Braunschweig*. USENIX 2020. [[PDF](https://www.usenix.org/conference/usenixsecurity20/presentation/quiring)]
