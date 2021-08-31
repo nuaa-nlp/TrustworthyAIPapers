@@ -62,7 +62,7 @@ Keywords:
 46. **Selective Differential Privacy for Language Modeling**. *Weiyan Shi, Aiqi Cui, Evan Li, Ruoxi Jia, Zhou Yu*. [[PDF](https://arxiv.org/abs/2108.12944)]
 47. **Searching for an Effective Defender: Benchmarking Defense against Adversarial Word Substitution**. *Zongyi Li, Jianhan Xu, Jiehang Zeng, Linyang Li, Xiaoqing Zheng, Qi Zhang, Kai-Wei Chang, Cho-Jui Hsieh*. [[PDF](https://arxiv.org/abs/2108.12777)]
 48. **DropAttack: A Masked Weight Adversarial Training Method to Improve Generalization of Neural Networks**. *Shiwen Ni, Jiawen Li, Hung-Yu Kao*. [[PDF](https://arxiv.org/abs/2108.12805)]
-49. **CAPE: Context-Aware Private Embeddings for Private Language Learning**. *https://arxiv.org/abs/2108.12318*. EMNLP 2021. [[PDF](https://arxiv.org/abs/2108.12318)]
+49. **CAPE: Context-Aware Private Embeddings for Private Language Learning**. *Richard Plant, Dimitra Gkatzia, Valerio Giuffrida*. EMNLP 2021. [[PDF](https://arxiv.org/abs/2108.12318)]
 50. **Evaluating the Robustness of Neural Language Models to Input Perturbations**. *Richard Plant, Dimitra Gkatzia, Valerio Giuffrida*. EMNLP 2021. [[PDF](https://arxiv.org/abs/2108.12237)]
 
 ### Compuper Vision
