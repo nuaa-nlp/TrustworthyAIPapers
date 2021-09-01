@@ -3,10 +3,10 @@
 List of Papers on AI + Security
 
 Keywords: 
-- Adversarial Attack and Defense
-- Robustness
-- Interpretability
-- Privacy
+- Adversarial Machine Learning
+- Attack & Defense
+- Robustness & Interpretability
+- Privacy & Watermark
 
 ## Papers
 
