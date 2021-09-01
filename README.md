@@ -64,6 +64,8 @@ Keywords:
 48. **DropAttack: A Masked Weight Adversarial Training Method to Improve Generalization of Neural Networks**. *Shiwen Ni, Jiawen Li, Hung-Yu Kao*. arXiv:2108.12805. [[PDF](https://arxiv.org/abs/2108.12805)]
 49. **CAPE: Context-Aware Private Embeddings for Private Language Learning**. *Richard Plant, Dimitra Gkatzia, Valerio Giuffrida*. EMNLP 2021. [[PDF](https://arxiv.org/abs/2108.12318)]
 50. **Evaluating the Robustness of Neural Language Models to Input Perturbations**. *Richard Plant, Dimitra Gkatzia, Valerio Giuffrida*. EMNLP 2021. [[PDF](https://arxiv.org/abs/2108.12237)]
+51. **Backdoor Attacks on Pre-trained Models by Layerwise Weight Poisoning**. *Linyang Li, Demin Song, Xiaonan Li, Jiehang Zeng, Ruotian Ma, Xipeng Qiu*. EMNLP 2021. [[PDF](https://arxiv.org/abs/2108.13888)]
+52. **Beyond Model Extraction: Imitation Attack for Black-Box NLP APIs**. *Qiongkai Xu, Xuanli He, Lingjuan Lyu, Lizhen Qu, Gholamreza Haffari*. arXiv:2108.13873. [[PDF](https://arxiv.org/abs/2108.13873)]
 
 ### Compuper Vision
 1. **Adversarial Preprocessing: Understanding and Preventing Image-Scaling Attacks in Machine Learning**. *Erwin Quiring, David Klein, Daniel Arp, Martin Johns, Konrad Rieck, TU Braunschweig*. USENIX 2020. [[PDF](https://www.usenix.org/conference/usenixsecurity20/presentation/quiring)]
