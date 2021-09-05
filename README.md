@@ -101,6 +101,7 @@ Keywords:
 1. ExplainaBoard: An Explainable Leaderboard for NLP: https://github.com/neulab/ExplainaBoard
 2. TextFlint: https://github.com/textflint/textflint
 3. OpenAttack: https://github.com/thunlp/OpenAttack
+4. SeetaFace2: https://github.com/seetafaceengine/SeetaFace2
 
 ## Team
 1. Baoyuan Wu: **Secure Computing Lab of Big Data** http://scl.sribd.cn/index.html
