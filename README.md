@@ -65,6 +65,10 @@ Keywords:
 49. **CAPE: Context-Aware Private Embeddings for Private Language Learning**. *Richard Plant, Dimitra Gkatzia, Valerio Giuffrida*. EMNLP 2021. [[PDF](https://arxiv.org/abs/2108.12318)]
 51. **Backdoor Attacks on Pre-trained Models by Layerwise Weight Poisoning**. *Linyang Li, Demin Song, Xiaonan Li, Jiehang Zeng, Ruotian Ma, Xipeng Qiu*. EMNLP 2021. [[PDF](https://arxiv.org/abs/2108.13888)]
 52. **Beyond Model Extraction: Imitation Attack for Black-Box NLP APIs**. *Qiongkai Xu, Xuanli He, Lingjuan Lyu, Lizhen Qu, Gholamreza Haffari*. arXiv:2108.13873. [[PDF](https://arxiv.org/abs/2108.13873)]
+53. **Efficient Combinatorial Optimization for Word-level Adversarial Textual Attack**. *Shengcai Liu, Ning Lu, Cheng Chen, Ke Tang*. arXiv:2109.02229. [[PDF](https://arxiv.org/abs/2109.02229)]
+54. **Training Meta-Surrogate Model for Transferable Adversarial Attack**. *Yunxiao Qin, Yuanhao Xiong, Jinfeng Yi, Cho-Jui Hsieh*. arXiv:2109.01983. [[PDF](https://arxiv.org/abs/2109.01983)]
+55. **Practical and Secure Federated Recommendation with Personalized Masks**. *Liu Yang, Ben Tan, Bo Liu, Vincent W. Zheng, Kai Chen, Qiang Yang*. arXiv:2109.02464. [[PDF](https://arxiv.org/abs/2109.02464)]
+56. **Black-Box Attacks on Sequential Recommenders via Data-Free Model Extraction**. *Zhenrui Yue, Zhankui He, Huimin Zeng, Julian McAuley*. RECSYS 2021. [[PDF](https://arxiv.org/pdf/2109.01165.pdf)]
 
 #### Robustness & Interpretability
 1. **Evaluating the Robustness of Neural Language Models to Input Perturbations**. *Richard Plant, Dimitra Gkatzia, Valerio Giuffrida*. EMNLP 2021. [[PDF](https://arxiv.org/abs/2108.12237)]
@@ -87,10 +91,12 @@ Keywords:
 13. **Stealthy Adversarial Perturbations Against  Real-Time Video Classification Systems**. *Shasha Li, Ajaya Neupane, Sujoy Paul, Chengyu Song, Srikanth V. Krishnamurthy, Amit K. Roy Chowdhury and Ananthram Swami*. NDSS 2019. [[PDF](https://www.ndss-symposium.org/ndss-paper/stealthy-adversarial-perturbations-against-real-time-video-classification-systems/)]
 14. **Reinforcement Learning Based Sparse Black-box Adversarial Attack on Video Recognition Models**. *Zeyuan Wang, Chaofeng Sha, Su Yang*. IJCAI 2021. [[PDF](https://www.ijcai.org/proceedings/2021/435)]
 15. **TkML-AP: Adversarial Attacks to Top-k Multi-Label Learning**. *Shu Hu, Lipeng Ke, Xin Wang, Siwei Lyu*. ICCV 2021. [[PDF](https://arxiv.org/abs/2108.00146)]
+16. **CloudLeak: Large-Scale Deep Learning Models Stealing Through Adversarial Examples**. *Honggang Yu, Kaichen Yang, Teng Zhang, Yun-Yun Tsai, Tsung-Yi Ho, Yier Jin*. NDSS 2020. [[PDF](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24178.pdf)]
 
 ### Speech
 1. **SirenAtack: Generating Adversarial Audio for End-to-End Acoustic Systems**. *Tianyu Du, Shouling Ji, Jinfeng Li, Qinchen Gu, Ting Wang, Raheem Beyah*. ASIA CCS 2020. [[PDF](https://dl.acm.org/doi/abs/10.1145/3320269.3384733)]
 2. **Adversarial Music: Real World Audio Adversary Against Wake-word Detection System**. *Juncheng B. Li, Shuhui Qu, Xinjian Li, Joseph Szurley, J. Zico Kolter, Florian Metze*. NeurIPS 2019. [[PDF](https://arxiv.org/abs/1911.00126)]
+3. **SEC4SR: A Security Analysis Platform for Speaker Recognition**. *Guangke Chen, Zhe Zhao, Fu Song, Sen Chen, Lingling Fan, Yang Liu*. arXiv:2109.01766. [[PDF](https://arxiv.org/abs/2109.01766)]
 
 
 ## Related Workshops
