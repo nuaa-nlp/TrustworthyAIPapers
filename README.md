@@ -92,6 +92,9 @@ Keywords:
 14. **Reinforcement Learning Based Sparse Black-box Adversarial Attack on Video Recognition Models**. *Zeyuan Wang, Chaofeng Sha, Su Yang*. IJCAI 2021. [[PDF](https://www.ijcai.org/proceedings/2021/435)]
 15. **TkML-AP: Adversarial Attacks to Top-k Multi-Label Learning**. *Shu Hu, Lipeng Ke, Xin Wang, Siwei Lyu*. ICCV 2021. [[PDF](https://arxiv.org/abs/2108.00146)]
 16. **CloudLeak: Large-Scale Deep Learning Models Stealing Through Adversarial Examples**. *Honggang Yu, Kaichen Yang, Teng Zhang, Yun-Yun Tsai, Tsung-Yi Ho, Yier Jin*. NDSS 2020. [[PDF](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24178.pdf)]
+17. **On Improving Adversarial Transferability of Vision Transformers**. *Muzammal Naseer, Kanchana Ranasinghe, Salman Khan, Fahad Shahbaz Khan, Fatih Porikli*. arXiv:2106.04169. [[PDF](https://arxiv.org/abs/2106.04169)]
+18. **On the Robustness of Vision Transformers to Adversarial Examples**. *Kaleel Mahmood, Rigel Mahmood, Marten van Dijk*. arXiv:2104.02610. [[PDF](https://arxiv.org/abs/2104.02610)]
+19. **Towards Transferable Adversarial Attacks on Vision Transformers**. *Zhipeng Wei etc.*. arXiv:2109.04176. [[PDF](https://arxiv.org/pdf/2109.04176.pdf)]
 
 ### Speech
 1. **SirenAtack: Generating Adversarial Audio for End-to-End Acoustic Systems**. *Tianyu Du, Shouling Ji, Jinfeng Li, Qinchen Gu, Ting Wang, Raheem Beyah*. ASIA CCS 2020. [[PDF](https://dl.acm.org/doi/abs/10.1145/3320269.3384733)]
