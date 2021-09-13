@@ -70,6 +70,7 @@ Keywords:
 55. **Practical and Secure Federated Recommendation with Personalized Masks**. *Liu Yang, Ben Tan, Bo Liu, Vincent W. Zheng, Kai Chen, Qiang Yang*. arXiv:2109.02464. [[PDF](https://arxiv.org/abs/2109.02464)]
 56. **Black-Box Attacks on Sequential Recommenders via Data-Free Model Extraction**. *Zhenrui Yue, Zhankui He, Huimin Zeng, Julian McAuley*. RECSYS 2021. [[PDF](https://arxiv.org/pdf/2109.01165.pdf)]
 57. **Self-Diagnosis and Self-Debiasing: A Proposal for Reducing Corpus-Based Bias in NLP**. *Timo Schick, Sahana Udupa, Hinrich Schütze*. TACL 2021. [[PDF](https://arxiv.org/abs/2103.00453)]
+58. **A Strong Baseline for Query Efficient Attacks in a Black Box Setting**. *Rishabh Maheshwary, Saket Maheshwary, Vikram Pudi*. EMNLP 2021. [[PDF](https://arxiv.org/abs/2109.04775)]
 
 #### Robustness & Interpretability
 1. **Evaluating the Robustness of Neural Language Models to Input Perturbations**. *Richard Plant, Dimitra Gkatzia, Valerio Giuffrida*. EMNLP 2021. [[PDF](https://arxiv.org/abs/2108.12237)]
