@@ -120,6 +120,7 @@ Keywords:
 3. OpenAttack: https://github.com/thunlp/OpenAttack
 4. SeetaFace2: https://github.com/seetafaceengine/SeetaFace2
 5. Thermostat：https://arxiv.org/abs/2108.13961
+6. alipy：https://github.com/NUAA-AL/ALiPy
 
 ## Team
 1. Baoyuan Wu: **Secure Computing Lab of Big Data** http://scl.sribd.cn/index.html
