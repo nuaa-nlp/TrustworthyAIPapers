@@ -69,9 +69,10 @@ Keywords:
 54. **Training Meta-Surrogate Model for Transferable Adversarial Attack**. *Yunxiao Qin, Yuanhao Xiong, Jinfeng Yi, Cho-Jui Hsieh*. arXiv:2109.01983. [[PDF](https://arxiv.org/abs/2109.01983)]
 55. **Practical and Secure Federated Recommendation with Personalized Masks**. *Liu Yang, Ben Tan, Bo Liu, Vincent W. Zheng, Kai Chen, Qiang Yang*. arXiv:2109.02464. [[PDF](https://arxiv.org/abs/2109.02464)]
 56. **Black-Box Attacks on Sequential Recommenders via Data-Free Model Extraction**. *Zhenrui Yue, Zhankui He, Huimin Zeng, Julian McAuley*. RECSYS 2021. [[PDF](https://arxiv.org/pdf/2109.01165.pdf)]
-57. **Self-Diagnosis and Self-Debiasing: A Proposal for Reducing Corpus-Based Bias in NLP**. *Timo Schick, Sahana Udupa, Hinrich Schütze*. TACL 2021. [[PDF](https://arxiv.org/abs/2103.00453)]
-58. **A Strong Baseline for Query Efficient Attacks in a Black Box Setting**. *Rishabh Maheshwary, Saket Maheshwary, Vikram Pudi*. EMNLP 2021. [[PDF](https://arxiv.org/abs/2109.04775)]
-59. **Adversarial Examples for Evaluating Math Word Problem Solvers**. *Vivek Kumar, Rishabh Maheshwary, Vikram Pudi*. EMNLP 2021. [[PDF](https://arxiv.org/abs/2109.05925)]
+57. **Membership Inference Attacks Against Recommender Systems**. *Minxing Zhang, Zhaochun Ren, Zihan Wang, Pengjie Ren, Zhumin Chen, Pengfei Hu, Yang Zhang*.  2021. [[PDF](https://arxiv.org/abs/2109.08045)]
+58. **Self-Diagnosis and Self-Debiasing: A Proposal for Reducing Corpus-Based Bias in NLP**. *Timo Schick, Sahana Udupa, Hinrich Schütze*. TACL 2021. [[PDF](https://arxiv.org/abs/2103.00453)]
+59. **A Strong Baseline for Query Efficient Attacks in a Black Box Setting**. *Rishabh Maheshwary, Saket Maheshwary, Vikram Pudi*. EMNLP 2021. [[PDF](https://arxiv.org/abs/2109.04775)]
+60. **Adversarial Examples for Evaluating Math Word Problem Solvers**. *Vivek Kumar, Rishabh Maheshwary, Vikram Pudi*. EMNLP 2021. [[PDF](https://arxiv.org/abs/2109.05925)]
 
 
 #### Robustness & Interpretability
