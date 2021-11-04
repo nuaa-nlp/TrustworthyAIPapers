@@ -100,6 +100,14 @@ Keywords:
 17. **On Improving Adversarial Transferability of Vision Transformers**. *Muzammal Naseer, Kanchana Ranasinghe, Salman Khan, Fahad Shahbaz Khan, Fatih Porikli*. arXiv:2106.04169. [[PDF](https://arxiv.org/abs/2106.04169)]
 18. **On the Robustness of Vision Transformers to Adversarial Examples**. *Kaleel Mahmood, Rigel Mahmood, Marten van Dijk*. arXiv:2104.02610. [[PDF](https://arxiv.org/abs/2104.02610)]
 19. **Towards Transferable Adversarial Attacks on Vision Transformers**. *Zhipeng Wei etc.*. arXiv:2109.04176. [[PDF](https://arxiv.org/pdf/2109.04176.pdf)]
+20. **Evading defenses to transferable adversarial examples by translation-invariant attacks**. *Yinpeng Dong, Tianyu Pang, Hang Su, Jun Zhu*. CVPR 2019. [[PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Dong_Evading_Defenses_to_Transferable_Adversarial_Examples_by_Translation-Invariant_Attacks_CVPR_2019_paper.pdf)]
+21. **Black-box adversarial attack with transferable model-based embedding**. *Zhichao Huang, Tong Zhang*. ICLR 2020. [[PDF](https://arxiv.org/pdf/1911.07140)]
+22. **Feature space perturbations yield more transferable adversarial examples**. *Nathan Inkawhich, Wei Wen, Hai (Helen) Li, Yiran Chen*. CVPR 2019. [[PDF](https://openaccess.thecvf.com/content_CVPR_2019/html/Inkawhich_Feature_Space_Perturbations_Yield_More_Transferable_Adversarial_Examples_CVPR_2019_paper.html)]
+23. **Towards transferable targeted attack**. *Maosen Li, Cheng Deng, Tengjiao Li, Junchi Yan, Xinbo Gao, Heng Huang*. CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Towards_Transferable_Targeted_Attack_CVPR_2020_paper.html)]
+24. **Learning transferable adversarial examples via ghost networks**. *Yingwei Li, Song Bai, Yuyin Zhou, Cihang Xie, Zhishuai Zhang, Alan Yuille*. AAAI-2020. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/6810)]
+25. **Adv-Makeup: A New Imperceptible and Transferable Attack on Face Recognition**. *Bangjie Yin, Wenxuan Wang2, Taiping Yao, Junfeng Guo, Zelun Kong, Shouhong Ding, Jilin Li, Cong Liu*. arXiv:2105.03162. [[PDF](https://arxiv.org/abs/2105.03162)]
+26. **Boosting the transferability of adversarial samples via attention**. *Weibin Wu, Yuxin Su, Xixian Chen, Shenglin Zhao, Irwin King, Michael R. Lyu, Yu-Wing Tai*. CVPR 2020. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/html/Wu_Boosting_the_Transferability_of_Adversarial_Samples_via_Attention_CVPR_2020_paper.html)]
+27. **Model-Agnostic Meta-Attack: Towards Reliable Evaluation of Adversarial Robustness**. *Xiao Yang1∗ Yinpeng Dong1∗ Wenzhao Xiang, Tianyu Pang, Hang Su, Jun Zhu*. arXiv:2110.08256 [cs]. [[PDF](https://arxiv.org/abs/2110.08256)]
 
 ### Speech
 1. **SirenAtack: Generating Adversarial Audio for End-to-End Acoustic Systems**. *Tianyu Du, Shouling Ji, Jinfeng Li, Qinchen Gu, Ting Wang, Raheem Beyah*. ASIA CCS 2020. [[PDF](https://dl.acm.org/doi/abs/10.1145/3320269.3384733)]
