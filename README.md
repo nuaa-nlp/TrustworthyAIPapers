@@ -80,6 +80,7 @@ Keywords:
 #### Robustness & Interpretability
 1. **Evaluating the Robustness of Neural Language Models to Input Perturbations**. *Richard Plant, Dimitra Gkatzia, Valerio Giuffrida*. EMNLP 2021. [[PDF](https://arxiv.org/abs/2108.12237)]
 2. **Discretized Integrated Gradients for Explaining Language Models**. *Soumya Sanyal, Xiang Ren*. EMNLP 2021. [[PDF](https://arxiv.org/abs/2108.13654)]
+3. **Achieving Model Robustness through Discrete Adversarial Training**. *Maor Ivgi and Jonathan Berant*. EMNLP 2021. [[PDF](https://arxiv.org/pdf/2104.05062.pdf)]
 
 
 ### Compuper Vision
