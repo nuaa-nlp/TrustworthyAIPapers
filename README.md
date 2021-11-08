@@ -1,4 +1,4 @@
-# AI+Security Papers
+# Trustworthy AI, AI+Security Papers
 
 List of Papers on AI + Security
 
