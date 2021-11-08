@@ -74,6 +74,7 @@ Keywords:
 59. **A Strong Baseline for Query Efficient Attacks in a Black Box Setting**. *Rishabh Maheshwary, Saket Maheshwary, Vikram Pudi*. EMNLP 2021. [[PDF](https://arxiv.org/abs/2109.04775)]
 60. **Adversarial Examples for Evaluating Math Word Problem Solvers**. *Vivek Kumar, Rishabh Maheshwary, Vikram Pudi*. EMNLP 2021. [[PDF](https://arxiv.org/abs/2109.05925)]
 61. **Large Language Models Can Be Strong Differentially Private Learners**. *Xuechen Li, Florian Tramèr, Percy Liang, Tatsunori Hashimoto*. arxiv 2021. [[PDF](https://arxiv.org/abs/2110.05679)]
+62. **Text Detoxification using Large Pre-trained Neural Models**. *David Dale, Anton Voronov, Daryna Dementieva, Varvara Logacheva, Olga Kozlova, Nikita Semenov, Alexander Panchenko*. EMNLP 2021. [[PDF](https://aclanthology.org/2021.emnlp-main.629.pdf)]
 
 
 #### Robustness & Interpretability
