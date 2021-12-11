@@ -77,6 +77,11 @@ Keywords:
 62. **Text Detoxification using Large Pre-trained Neural Models**. *David Dale, Anton Voronov, Daryna Dementieva, Varvara Logacheva, Olga Kozlova, Nikita Semenov, Alexander Panchenko*. EMNLP 2021. [[PDF](https://aclanthology.org/2021.emnlp-main.629.pdf)]
 63. **Gradient-based Adversarial Attacks against Text Transformers**. *Chuan Guo, Alexandre Sablayrolles, Hervé Jégou and Douwe Kiela*. EMNLP 2021. [[PDF](https://arxiv.org/pdf/2104.13733.pdf)]
 64. **ONION: A Simple and Effective Defense Against Textual**. *Fanchao Qi, Yangyi Chen, Mukai Li, Yuan Yao, Zhiyuan Liu and Maosong Sun*. EMNLP 2021. [[PDF](https://arxiv.org/pdf/2011.10369.pdf)]
+65. **Learning to Ignore Adversarial Attacks**. [[PDF](https://openreview.net/forum?id=jlflpf7P7QY)]
+66. **FRSUM: Towards Faithful Abstractive Summarization via Enhancing Factual Robustness**. [[PDF](https://openreview.net/forum?id=m3gyU0zoCD_)]
+67. **GradMask: Gradient-Guided Token Masking for Textual Adversarial Example Detection**. [[PDF](https://openreview.net/forum?id=abyb5WF417M)]
+68. **Flooding-X: Improving BERT's Resistance to Adversarial Attacks via Loss-Restricted Fine-Tuning**. [[PDF](https://openreview.net/forum?id=wSlBe6V8V8H)]
+69. **Robust and Effective Grammatical Error Correction with Simple Cycle Self-Augmenting**. [[PDF](https://openreview.net/forum?id=GHB9zPiVfOk)]
 
 
 #### Robustness & Interpretability
