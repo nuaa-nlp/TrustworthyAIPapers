@@ -82,6 +82,14 @@ Keywords:
 67. **GradMask: Gradient-Guided Token Masking for Textual Adversarial Example Detection**. [[PDF](https://openreview.net/forum?id=abyb5WF417M)]
 68. **Flooding-X: Improving BERT's Resistance to Adversarial Attacks via Loss-Restricted Fine-Tuning**. [[PDF](https://openreview.net/forum?id=wSlBe6V8V8H)]
 69. **Robust and Effective Grammatical Error Correction with Simple Cycle Self-Augmenting**. [[PDF](https://openreview.net/forum?id=GHB9zPiVfOk)]
+70. **Perturbation-based Self-supervised Attention for Text Classification**.[[PDF](https://openreview.net/pdf?id=_WRoowuSImQ)]
+71. **Detection of Adversarial Examples in NLP: Benchmark and Baseline via Robust Density Estimation**.[[PDF](https://openreview.net/pdf?id=GO9vQ8BrJtk)]
+72. **Probing the Robustness of Trained Metrics for Conversational Dialogue Systems**.  [[PDF](https://openreview.net/pdf?id=DsJO6wBxsF-)]
+73. **On the Safety of Conversational Models: Taxonomy, Dataset, and Benchmark**. [[PDF](https://openreview.net/pdf?id=4kVErnnL_FZ)]
+74. **BufferSearch: Generating Black-Box Adversarial Texts With Lower Queries**. [[PDF](https://openreview.net/pdf?id=5mD_WKOwu2)]
+75. **Generating Authentic Adversarial Examples beyond Meaning-preserving with Doubly Round-trip Translation**.  [[PDF](https://openreview.net/pdf?id=bLOUrQ0lPo)]
+76. **Removing Out-of-Distribution Data Improves Adversarial Robustness**. [[PDF](https://openreview.net/pdf?id=KixJ4-yJsZI)]
+
 
 
 #### Robustness & Interpretability
