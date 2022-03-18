@@ -7,8 +7,11 @@ Keywords:
 - Attack & Defense
 - Robustness & Interpretability
 - Privacy & Watermark
+- Federated learning
 
 ## Papers
+
+### Federated learning
 
 ### Natural Language Processing
 1. **Semantic-Preserving Adversarial Text Attacks**. *Xinghao Yang, Weifeng Liu, James Bailey, Tianqing Zhu, Dacheng Tao, Wei Liu*. [[PDF](https://arxiv.org/abs/2108.10015)]
